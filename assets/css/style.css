@@ -1,0 +1,21 @@
+.caja{
+    margin: 200px;
+    padding: 20px;
+    border: solid 1px #000000;
+    background-color: lightgray;
+}
+
+.subcaja{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btnTarea{
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+.tabla{
+    width: 50vh;
+}
